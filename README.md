@@ -30,7 +30,10 @@ This repository contains code for the re-implementation of the static and dynami
 * Python 3
 * TensorFlow 
 * Keras
-* OpenCV 
+* OpenCV
+* 
+## Dataset:
+This is provided by the department (from [Xu et al., 2016]). This is present in the GPU2 of the department. 
 
 ## BASE RE-IMPLEMENTATION - Usage and Configuration
 
@@ -81,9 +84,6 @@ The configuration file Config.json allows to configure few of the parameters whi
 
 ## Overview:
   A LSTM model implementation for enhancing spatio-temporal attention modeling from ([Xu et al., 2016](https://perceptual.mpi-inf.mpg.de/files/2016/02/xu16_chi.pdf)) for graphical user interfaces.
-  
-## Dataset:
-  Provided by the department (from [Xu et al., 2016])
   
 ## LSTM Model Architecture:
 
