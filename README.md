@@ -33,7 +33,8 @@ This repository contains code for the re-implementation of the static and dynami
 * OpenCV
 
 ## Dataset:
-This is provided by the department (from [Xu et al., 2016]). This is present in the GPU2 of the department. 
+This is provided by the department (from [Xu et al., 2016]). This is present in the GPU2 of the department.
+For base re-implentation the mat files from the dataset should be placed in the Dataset folder, and the Static/Images folder need to be updated with images in the folder Static_Images placed in the GPU2 of the department
 
 ## BASE RE-IMPLEMENTATION - Usage and Configuration
 
@@ -114,3 +115,8 @@ Static attention prediction
 Dynamic attention prediction
 
 ![Dynamic attention prediction](LSTM/temp_visual_result.png)
+
+## Evaluations:
+
+The evaluations for static and dynamic for the base re-implementation can be found as SalienceMericResults.txt file in their respective folders
+The evaluations for LSTM dynamic predictions can be found in Temporal_Evaluation_metrics_lstm.xlsx in the LSTM directory
