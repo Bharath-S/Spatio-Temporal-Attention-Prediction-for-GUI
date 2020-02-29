@@ -31,7 +31,7 @@ This repository contains code for the re-implementation of the static and dynami
 * TensorFlow 
 * Keras
 * OpenCV
-* 
+
 ## Dataset:
 This is provided by the department (from [Xu et al., 2016]). This is present in the GPU2 of the department. 
 
